@@ -1,4 +1,4 @@
-# Beautify - AI-Powered Skincare Platform
+# Yourself - AI-Powered Skincare Platform
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/evacoffee/beautify/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/evacoffee/beautify)](https://github.com/evacoffee/beautify/issues)
